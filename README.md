@@ -1,3 +1,5 @@
+![smartcontractlottery](https://github.com/user-attachments/assets/84a1b546-286c-4c5e-aec3-756be9332ca3)
+
 # Getting Started
 
 ## Requirements
