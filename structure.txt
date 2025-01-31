@@ -1,0 +1,6 @@
+pickwinner:
+1. get a random number
+2. use random number to pick a player
+3. be automatically called
+
+check to see if enough time has passed
